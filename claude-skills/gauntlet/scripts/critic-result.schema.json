@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["gaps", "summary", "verified"],
+  "properties": {
+    "gaps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["severity", "contract", "evidence", "description", "reproduction"],
+        "properties": {
+          "severity": { "type": "string", "enum": ["BLOCKER", "CRITICAL", "MAJOR", "MINOR", "POLISH"] },
+          "contract": { "type": "string" },
+          "evidence": { "type": "string" },
+          "description": { "type": "string" },
+          "reproduction": { "type": "string" }
+        }
+      }
+    },
+    "summary": { "type": "string" },
+    "verified": { "type": "array", "items": { "type": "string" } }
+  }
+}
