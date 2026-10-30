@@ -46,4 +46,4 @@ Most skills written by me are in Brazilian Portuguese; the third-party ones are 
 
 ## License
 
-[MIT](LICENSE) for the 29 skills written by Bruno Andrade, the gauntlet, the installers, tests and docs. Third-party skills keep their own licenses.
+[MIT](LICENSE) for the 29 skills written by Bruno Andrade, the gauntlet, the installers, tests and docs. Third-party skills keep their own licenses (see [`THIRD-PARTY.md`](THIRD-PARTY.md)).

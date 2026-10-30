@@ -157,4 +157,4 @@ Algumas delas receberam pequenos ajustes de fronteira na `description` para não
 
 ## Licença
 
-As 29 skills de minha autoria, o gauntlet, os instaladores, os testes e a documentação estão sob a licença [MIT](LICENSE). As skills de terceiros mantêm as licenças próprias listadas acima.
+As 29 skills de minha autoria, o gauntlet, os instaladores, os testes e a documentação estão sob a licença [MIT](LICENSE). As skills de terceiros mantêm as licenças próprias listadas acima e em [`THIRD-PARTY.md`](THIRD-PARTY.md).
